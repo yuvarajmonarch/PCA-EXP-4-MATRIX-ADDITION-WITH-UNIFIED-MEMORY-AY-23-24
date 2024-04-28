@@ -656,11 +656,12 @@ int main(int argc, char **argv)
 ## OUTPUT:
 WITH MEMSETS: 
 
-![image](https://github.com/janarthanan23/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/assets/119491930/78429be1-87d4-4d4e-bd6a-d3060fcc54af)
+![image](https://github.com/yuvarajmonarch/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/assets/122221735/6a51f74a-a867-4cce-b89b-7889e69fc59e)
+
 
 WITHOUT MEMSETS:
 
-![image](https://github.com/janarthanan23/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/assets/119491930/4b100390-2fa4-449d-a616-cae843286449)
+![image](https://github.com/yuvarajmonarch/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/assets/122221735/5dc14d33-7a6f-46ff-aa77-0810738cee1d)
 
 
 
